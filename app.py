@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load the model
-model_path = 'C:\\Users\\User\\iris_flower\\model.pkl'
+model_path = 'model.pkl'
 
 
 with open(model_path, 'rb') as file:
